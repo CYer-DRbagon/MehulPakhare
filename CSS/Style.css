@@ -134,14 +134,8 @@ a:hover {
 .footer-link {
 	color: #EAF6F6
 }
-@media (min-width: 992px) .top-container {
-	max-width:970px
-}
-@media (min-width: 768px) .top-container {
-	max-width:750px
-}
-@media (min-width: 992px)
+@media (min-width: 600px)
 .bottom-cloud {
     left: 2em;
-    bottom: 5em;
+    bottom: 3em;
 }
